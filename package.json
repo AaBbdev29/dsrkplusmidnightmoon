@@ -1,0 +1,28 @@
+{
+  "name": "dark-plus-midnight-moon",
+  "displayName": "dark plus midnight moon",
+  "description": "dark plus midnight moon",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "moong.jpg", 
+  "theme": "dark",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaBbdev29"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "dark plus midnight moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark plus midnight moon-color-theme.json"
+      }
+    ]
+  }
+}
